@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/my_road2vec.dir/main.c.o"
   "my_road2vec.pdb"
-  "my_road2vec"
+  "my_road2vec.exe"
+  "libmy_road2vec.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

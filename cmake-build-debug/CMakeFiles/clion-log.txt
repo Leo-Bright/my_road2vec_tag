@@ -1,4 +1,4 @@
-/opt/clion-2018.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/leo/CLionProjects/my_road2vec_tag
+C:\Users\leo\.CLion2018.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/d/Project/CLionProjects/my_road2vec_tag
 -- The C compiler identification is GNU 7.3.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/leo/CLionProjects/my_road2vec_tag/cmake-build-debug
+-- Build files have been written to: /cygdrive/d/Project/CLionProjects/my_road2vec_tag/cmake-build-debug

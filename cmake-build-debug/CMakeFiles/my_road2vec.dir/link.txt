@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/my_road2vec.dir/main.c.o  -o my_road2vec -lm -lpthread 
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/my_road2vec.dir/main.c.o  -o my_road2vec.exe -Wl,--out-implib,libmy_road2vec.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -lm -lpthread 

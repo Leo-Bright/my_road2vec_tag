@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/leo/CLionProjects/my_road2vec_tag/main.c" "/home/leo/CLionProjects/my_road2vec_tag/cmake-build-debug/CMakeFiles/my_road2vec.dir/main.c.o"
+  "/cygdrive/d/Project/CLionProjects/my_road2vec_tag/main.c" "/cygdrive/d/Project/CLionProjects/my_road2vec_tag/cmake-build-debug/CMakeFiles/my_road2vec.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
